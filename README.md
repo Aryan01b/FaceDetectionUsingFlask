@@ -13,6 +13,9 @@
 </ul>
 <hr>
 <h2>Steps to run the program:</h2>
+<h4>Assuming you have installed <b>python</b> correctly.
 <ol type="1">
-  <li>type <i>pip install opencv-python</i>
+  <li>type <i>pip install opencv-python</i> into the terminal/CMD
+  <li>type <i>pip install Flask</i> int0 the terminal/CMD
+  <li>run the file app.py and goto <i>http://127.0.0.1:5000/video</i>
 </ol>
