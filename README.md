@@ -9,4 +9,6 @@ This is a Python Project. Modules used are Flask and OpenCV.
   <ol>
     <li>A prototype main.py file to run on Desktop
     <li>app.py file to run for Web Application
+  </ol>
 </ul>
+----------------------------------------------------------------------------
