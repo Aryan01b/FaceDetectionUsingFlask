@@ -1,4 +1,4 @@
-# FaceDetectionUsingFlask
+<h1>FaceDetectionUsingFlask</h1>
 This is a Python Project. Modules used are Flask and OpenCV.
 
 <hr>
@@ -11,4 +11,4 @@ This is a Python Project. Modules used are Flask and OpenCV.
     <li>app.py file to run for Web Application
   </ol>
 </ul>
-----------------------------------------------------------------------------
+
